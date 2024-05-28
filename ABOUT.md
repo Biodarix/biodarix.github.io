@@ -1,5 +1,5 @@
 layout: page
 title: "About"
-permalink: /URL-PATH
+permalink: /https://biodarix.github.io/about
 
 This is were detailed information will go.
