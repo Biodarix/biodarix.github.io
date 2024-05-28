@@ -19,19 +19,19 @@ body{
 	height: 500px;
 }
 .crs-img-1{
-	background: url('../img/slider-img1.jpg');
+	background: url('../img/Background_fract_web.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
 }
 .crs-img-2{
-	background: url('../img/slider-img2.jpg');
+	background: url('../img/Background_1.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
 }
 .crs-img-3{
-	background: url('../img/slider-img3.jpg');
+	background: url('../img/Copy of Background_3.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
