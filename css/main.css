@@ -112,7 +112,7 @@ body{
 }
 #footer .fab{
 	font-size:25px;
-	color:#fff;
+	color:#faf;
 	border: 1px solid #7f8c8d;
 	padding: 5px;
 }
@@ -134,7 +134,7 @@ body{
 }
 #about .inner-overlay, #services .inner-overlay, #blog .inner-overlay ,
 #contact .inner-overlay{
-	background:rgba(15,15,15,0.7);
+	background:rgba(0,0,0,0.7);
 	position: absolute;
 	top: 0;
 	left: 0;
