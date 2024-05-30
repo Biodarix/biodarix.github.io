@@ -134,7 +134,7 @@ body{
 }
 #about .inner-overlay, #services .inner-overlay, #blog .inner-overlay ,
 #contact .inner-overlay{
-	background:rgba(0,0,0,0.7);
+	background:rgba(3, 188, 245, 0.7);
 	position: absolute;
 	top: 0;
 	left: 0;
