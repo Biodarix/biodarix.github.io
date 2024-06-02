@@ -125,7 +125,7 @@ body{
 
 /*About Section*/
 #about{
-	background:url('../img/about/back.jpg');
+	background:url('../img/about//Hand_artom.jpeg');
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -163,7 +163,7 @@ body{
 	cursor: pointer;
 }
 #blog{
-	background:url('../img/video.jpg');
+	background:url('../img/Background_fract_web.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -175,7 +175,7 @@ body{
 	width: 100%;
 }
 #contact{
-	background:url('../img/Hand_artom.jpeg');
+	background:url('../img/video.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
