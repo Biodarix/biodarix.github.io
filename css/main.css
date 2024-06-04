@@ -101,7 +101,7 @@ body{
 
 /*Gallery*/
 #gallery img{
-	max-height: 200px;
+	max-height: 100px;
 	width: 100%;
 
 }
